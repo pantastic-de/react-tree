@@ -1,3 +1,7 @@
+# test rc-tree
+
+this is a very reduced example of rc-tree [https://github.com/react-component/tree]
+
 ## Available Scripts
 
 In the project directory, you can run:
