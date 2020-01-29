@@ -2,6 +2,10 @@
 
 this is a very reduced example of rc-tree [https://github.com/react-component/tree]
 
+## Installation
+
+Download the code from github and install it with `npm install --no-optional`
+
 ## Available Scripts
 
 In the project directory, you can run:
