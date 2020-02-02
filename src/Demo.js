@@ -1,7 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import PropTypes from 'prop-types'
-import Tree, { TreeNode } from 'rc-tree'
+//import Tree, { TreeNode } from 'rc-tree'
+import Tree from 'rc-tree'
 import './Demo.css'
 
 
@@ -79,7 +80,7 @@ class Demo extends React.Component {
       <div style={{ margin: '0 20px' }}>
         <Tree
           className="myCls"
-          showLine
+          showLine={ true }
           showIcon={false}
           checkable
           selectable={ false }
